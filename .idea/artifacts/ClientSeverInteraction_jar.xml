@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientSeverInteraction:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientSeverInteraction_jar</output-path>
+    <root id="archive" name="ClientSeverInteraction.jar">
+      <element id="module-output" name="ClientSeverInteraction" />
+    </root>
+  </artifact>
+</component>
